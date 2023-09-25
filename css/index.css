@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:ital,wght@0,100;1,100&display=swap');
+
+/* Blocks */
+body {
+  margin: 0; 
+  --webkit-appearance: none; 
+  --moz-appearance: none;
+  appearance: none;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  font-family: "Abel";
+}
+
+.block {
+  background-color: #AB9F9D;
+  text-align: center;
+  height: 100vh;
+}
+
+.block h1 {
+  color: #383F51;
+  padding-top: 6px;
+}
+
+/* Topnav */
+
+.topnav {
+  width: 100%;
+  height: 64px;
+  background-color: #DDDBF1;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.topnav img{
+  width: 48px;
+  height: 48px;
+  margin-top: 8px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.topnav a { 
+  color: #383F51;
+  font-family: "Abel";
+  text-decoration: none;
+}
+
+/* Login Form */
+
+.login input {
+  height: 25px;
+  width: 150px;
+  text-align: center;
+}
+
+.login a {
+  color: #383F51;
+  font-family: "Abel";
+  text-decoration: none;
+}
