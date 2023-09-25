@@ -1,2 +1,2 @@
 all:
-  echo "Building to Neocities"
+    echo "Building to Neocities"
