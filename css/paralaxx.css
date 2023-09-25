@@ -1,0 +1,8 @@
+.paralaxx {
+  background-image: url("../assets/background.jpg");
+  background-position: top center;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+}
